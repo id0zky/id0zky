@@ -1,16 +1,19 @@
-## Hi there 👋
+# Halo! 👋
 
-<!--
-**id0zky/id0zky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di profil GitHub saya.
 
-Here are some ideas to get you started:
+Saya adalah mahasiswa yang sedang belajar Git dan GitHub. Repository ini dibuat untuk latihan, eksplorasi fitur GitHub, dan mendokumentasikan proses pembelajaran saya di dunia pemrograman.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tujuan Repository
+
+- Mencoba fitur-fitur dasar GitHub
+- Menyimpan catatan dan kode belajar
+- Menjadi portofolio perkembangan belajar pemrograman
+
+## Status
+
+Saat ini belum ada proyek besar di repository ini. Semua isi di sini adalah bagian dari proses belajar saya.
+
+---
+
+Terima kasih sudah berkunjung!
